@@ -1,5 +1,14 @@
 # Hi there 👋
 
+## My tools for dayly work
+
+- [Visual Studio](https://visualstudio.microsoft.com/de/vs/community/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [MS SQL Server](https://www.microsoft.com/de-de/sql-server/sql-server-downloads)
+- [DBeaver](https://dbeaver.io/download/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [WinMerge](https://winmerge.org/downloads/)
+
 <!--
 **ohainz/ohainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
