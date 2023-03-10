@@ -8,6 +8,7 @@
 - [DBeaver](https://dbeaver.io/download/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [WinMerge](https://winmerge.org/downloads/)
+- [Everything](https://www.voidtools.com/downloads/)
 
 <!--
 **ohainz/ohainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
