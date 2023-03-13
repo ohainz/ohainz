@@ -10,6 +10,11 @@
 - [WinMerge](https://winmerge.org/downloads/)
 - [Everything](https://www.voidtools.com/downloads/)
 
+## Web site tools
+
+- [JSON editor](https://jsoneditoronline.org/)
+- [Regular expressions](https://regex101.com/)
+
 <!--
 **ohainz/ohainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
