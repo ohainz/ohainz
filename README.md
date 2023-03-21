@@ -1,6 +1,27 @@
 # Hi there 👋
 
-## My tools for dayly work
+## About me
+
+| Time | Description |
+|:-----|:------------|
+| 1996-2001 | Studied Mathematics |
+| 2001 | Graduate mathematician |
+| since 2001 | Work  as a Software developer. |
+
+Projects I worked on:
+
+- 2001-2003 Building an eCommerce solution. Used Tools: JBuilder, Apache Web Server, Apache Tomcat, Java, HTML, XML.
+- 2003 Changed the Department to ERP and PPS System. Used Tools: Visual Studio C++ MFC.
+- Face lift of old fashion GUI (owner draw controls, Toolbars, Outlook styled bar).
+- Chart control for lines, bars, and pie-charts (owner draw control).
+- Including IE-Web-Control in the System.
+- Added an HTML-Edit Control
+- Added an Update Server function to deploy dlls, exes and also master data and other files for a dealer version.
+- Worked on a Warehouse module.
+- Extend the capacity planning module in the ERP System.
+- Created Web-Shop (based on .net Framework, ICE from ZeroC, ASP.net, nHibernate, Spring .net).
+
+## My tools for daily work
 
 - [Visual Studio](https://visualstudio.microsoft.com/de/vs/community/)
 - [Visual Studio Code](https://code.visualstudio.com/)
