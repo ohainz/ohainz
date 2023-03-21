@@ -15,7 +15,7 @@ Projects I worked on:
 - Face lift of old fashion GUI (owner draw controls, Toolbars, Outlook styled bar).
 - Chart control for lines, bars, and pie-charts (owner draw control).
 - Including IE-Web-Control in the System.
-- Added an HTML-Edit Control
+- Added an HTML-Edit Control.
 - Added an Update Server function to deploy dlls, exes and also master data and other files for a dealer version.
 - Worked on a Warehouse module.
 - Extend the capacity planning module in the ERP System.
