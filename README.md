@@ -32,7 +32,13 @@ In the 80th my parents bought an Amiga 500 for my brother and me (round about 19
 - 2020 - Created a Server and Complained integration in the Web-Shop-System.
 - 2022 - Integrate [MailKit](https://github.com/jstedfast/MailKit) for OAuth on Office 365.
 - 2023 - Reorganize Warehouse logic in a new Architecture (domain driven design, test driven design, .net Core, [Entity Framework](https://learn.microsoft.com/en-us/ef/), [OData](https://www.odata.org/) server and client, Dependency injection, [EventStoreDB](https://www.eventstore.com/)).
-
+- 2024 - Intergrated the [VCPKG](https://vcpkg.io/en/) in the existing ERP-Application. Added clients for:
+  - [grpc](https://vcpkg.io/en/package/grpc)
+  - [curl](https://vcpkg.io/en/package/curl)
+  - [sqlite3](https://vcpkg.io/en/package/sqlite3)
+  - [opentelemetry-cpp](https://vcpkg.io/en/package/opentelemetry-cpp)
+- 2024 - Worked with Azure Pipelines (CI/CD), [Docker CE on Windows](https://docs.docker.com/engine/install/binaries/#install-server-and-client-binaries-on-windows) and [AWS ECR](https://aws.amazon.com/de/ecr/).
+  
 ## My tools for daily work
 
 - [Visual Studio](https://visualstudio.microsoft.com/de/vs/community/)
